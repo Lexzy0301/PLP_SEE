@@ -42,8 +42,3 @@ Edit
 This project is open-source and available under the MIT License.
 
 Let me know what language your calculator is written in if you want the README tailored to that.
-
-
-
-
-Ask ChatGPT
